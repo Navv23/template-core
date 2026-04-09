@@ -1,4 +1,4 @@
-# Temmplate Core
+# Template Core
 
 A template repository for building simple, fast Python tools and CLI apps.
 
